@@ -10,11 +10,11 @@ If copied, go to discord (browser version) and press "CTRL+SHIFT+I" on your keyb
 
 ### Contact me: 
 
-[<img align="left" alt="instagram" width="22px" src="[https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png](https://duckduckgo.com/i/a834a359.png)" />](https://www.instagram.com/ttaawi/?__coig_restricted=1)
-</a>
+[<img align="left" alt="YouTube" width="22px" src="https://duckduckgo.com/i/a834a359.png" />](https://www.instagram.com/ttaawi/)
 <a href="https://twitter.com/Ttawiii">
   <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+
 
 </br>
 
