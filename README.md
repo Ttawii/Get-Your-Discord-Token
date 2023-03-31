@@ -8,6 +8,16 @@ If copied, go to discord (browser version) and press "CTRL+SHIFT+I" on your keyb
 <br>
 </br>
 
+### Contact me: 
+
+[<img align="left" alt="instagram" width="22px" src="[https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-128.png](https://duckduckgo.com/i/a834a359.png)" />](https://www.instagram.com/ttaawi/?__coig_restricted=1)
+</a>
+<a href="https://twitter.com/Ttawiii">
+  <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+</br>
+
 <p align="left">
 <img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
 <img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
