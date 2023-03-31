@@ -18,10 +18,4 @@ If copied, go to discord (browser version) and press "CTRL+SHIFT+I" on your keyb
 
 </br>
 
-<p align="left">
-<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
-<img src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5" />
-<img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3&logoColor=#1572B6" />
-<img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
-</p>
-<br />
+
