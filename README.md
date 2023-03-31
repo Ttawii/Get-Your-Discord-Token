@@ -1,4 +1,4 @@
-# get-your-discord-token
+# Get-Your-Discord-Token
 To get your discord token in a special way without doing too many steps, copy the code given below:
 ```js
 window.webpackChunkdiscord_app.push([[Math.random()], {}, (req) => {for (const m of Object.keys(req.c).map((x) => req.c[x].exports).filter((x) => x)) {if (m.default && m.default.getToken !== undefined) {return m.default.getToken()}}}])
