@@ -10,12 +10,8 @@ If copied, go to discord (browser version) and press "CTRL+SHIFT+I" on your keyb
 
 ### Contact me: 
 
-[<img align="left" alt="YouTube" width="22px" src="https://duckduckgo.com/i/a834a359.png" />](https://www.instagram.com/ttaawi/)
-<a href="https://twitter.com/Ttawiii">
-  <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.instagram.com/t2tt/" style="color: white; text-decoration: none;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" width="30" />
 </a>
-
-
-</br>
 
 
